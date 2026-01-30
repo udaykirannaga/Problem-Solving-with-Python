@@ -16,4 +16,4 @@ and strengthen Python fundamentals.
 ✅ Improve problem-solving skills  
 ✅ Prepare for coding interviews
 
-📌 Consistency is the key.
+📌 Consistency is the key of learnig.
