@@ -1,7 +1,7 @@
 '''
 write a python program to remove duplicates
 '''
-
+# lists
 nums=[1,2,3,45,6,3,4,2,5,6,7,8,9]
 unique=[]
 for n in nums:
