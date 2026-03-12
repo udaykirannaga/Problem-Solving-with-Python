@@ -1,13 +1,13 @@
 Daily Python Problem Solving
 This repository is dedicated to solving daily problems in Python to improve logical thinking, strengthen programming fundamentals, and master Python concepts.
 
-📌 Objective
+---Objective-----
 Practice Python programming daily.
 Improve problem-solving and logical thinking skills.
 Learn and apply Python concepts in real scenarios.
 Build a portfolio of practical Python exercises.
 
-🛠️ Concepts Practiced
+----Concepts Practiced-----
 This repository will cover problems in areas such as:
 Variables and Data Types
 Conditional Statements (if, else, elif)
